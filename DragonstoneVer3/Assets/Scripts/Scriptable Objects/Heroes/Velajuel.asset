@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9006dad03c143c748a19ee3cd216764f, type: 3}
+  m_Name: Velajuel
+  m_EditorClassIdentifier: 
+  hero:
+    name: Velajuel
+    heroImage: {fileID: 21300000, guid: 960031f1a522351489919593f7298076, type: 3}
+    description: Archangel
+    heroLevel: 0
+    rarity: 3
+    faction: 0
+    creatureType: 2
+    health: 95
+    attack: 7
+    chance: 50
+    speed: 95
+    armor: 0
+    taunt: 0
+  skill:
+  - skillAsset: {fileID: 11400000, guid: 3fe09d4c1614e6e45877bc86aa48f515, type: 2}
+    cooldown: 0
+  - skillAsset: {fileID: 11400000, guid: 7a4919233a9e82b43ac71118f01d2dbd, type: 2}
+    cooldown: 2
+  - skillAsset: {fileID: 11400000, guid: ceebf2a09541f644193a2c9811682cf8, type: 2}
+    cooldown: 4
+  - skillAsset: {fileID: 11400000, guid: db86b5b3b0f74b945a273adcfb7f6565, type: 2}
+    cooldown: 0

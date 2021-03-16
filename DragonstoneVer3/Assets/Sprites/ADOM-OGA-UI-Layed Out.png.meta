@@ -1,0 +1,860 @@
+fileFormatVersion: 2
+guid: 0e18cd98b840fe647b5cd367df2bd971
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8089082916302377862
+    second: ADOM-OGA-UI-Layed Out_0
+  - first:
+      213: 358283700369069066
+    second: ADOM-OGA-UI-Layed Out_1
+  - first:
+      213: -5689375980095592130
+    second: ADOM-OGA-UI-Layed Out_2
+  - first:
+      213: -4979674793680324778
+    second: ADOM-OGA-UI-Layed Out_3
+  - first:
+      213: 573108987808453503
+    second: ADOM-OGA-UI-Layed Out_4
+  - first:
+      213: 8976549846944512190
+    second: ADOM-OGA-UI-Layed Out_5
+  - first:
+      213: 2385019306968585464
+    second: ADOM-OGA-UI-Layed Out_6
+  - first:
+      213: -2919782634392617899
+    second: ADOM-OGA-UI-Layed Out_7
+  - first:
+      213: -4716181630986798402
+    second: ADOM-OGA-UI-Layed Out_8
+  - first:
+      213: -722844742308362300
+    second: ADOM-OGA-UI-Layed Out_9
+  - first:
+      213: -1469982118989532647
+    second: ADOM-OGA-UI-Layed Out_10
+  - first:
+      213: -8803975260359045355
+    second: ADOM-OGA-UI-Layed Out_11
+  - first:
+      213: 8650835706428876771
+    second: ADOM-OGA-UI-Layed Out_12
+  - first:
+      213: -7811125437368524116
+    second: ADOM-OGA-UI-Layed Out_13
+  - first:
+      213: -4028456804464740349
+    second: ADOM-OGA-UI-Layed Out_14
+  - first:
+      213: 6463251029243782068
+    second: ADOM-OGA-UI-Layed Out_15
+  - first:
+      213: -3887448813285754204
+    second: ADOM-OGA-UI-Layed Out_16
+  - first:
+      213: -1650649464330540404
+    second: ADOM-OGA-UI-Layed Out_17
+  - first:
+      213: 3357352725988820177
+    second: ADOM-OGA-UI-Layed Out_18
+  - first:
+      213: 714073448788736760
+    second: ADOM-OGA-UI-Layed Out_19
+  - first:
+      213: 8139279651751298713
+    second: ADOM-OGA-UI-Layed Out_20
+  - first:
+      213: 1086699434972197736
+    second: ADOM-OGA-UI-Layed Out_21
+  - first:
+      213: -5387466994709856068
+    second: ADOM-OGA-UI-Layed Out_22
+  - first:
+      213: -8495730160554791727
+    second: ADOM-OGA-UI-Layed Out_23
+  - first:
+      213: 5835409503406808438
+    second: ADOM-OGA-UI-Layed Out_24
+  - first:
+      213: -9012764567004347096
+    second: ADOM-OGA-UI-Layed Out_25
+  - first:
+      213: -5537225720290162662
+    second: ADOM-OGA-UI-Layed Out_26
+  - first:
+      213: -6644627136392430793
+    second: ADOM-OGA-UI-Layed Out_27
+  - first:
+      213: 4552832929061998106
+    second: ADOM-OGA-UI-Layed Out_28
+  - first:
+      213: -6009842947428424560
+    second: ADOM-OGA-UI-Layed Out_29
+  - first:
+      213: 985369706024428906
+    second: ADOM-OGA-UI-Layed Out_30
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ADOM-OGA-UI-Layed Out_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1364
+        width: 106
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68352e8fd02324070800000000000000
+      internalID: 8089082916302377862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ADOM-OGA-UI-Layed Out_1
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 1418
+        width: 35
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a049f419021e8f400800000000000000
+      internalID: 358283700369069066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ADOM-OGA-UI-Layed Out_2
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 1412
+        width: 30
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3923c090b64b01b0800000000000000
+      internalID: -5689375980095592130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ADOM-OGA-UI-Layed Out_3
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 1383
+        width: 60
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 657b7b99824a4eab0800000000000000
+      internalID: -4979674793680324778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ADOM-OGA-UI-Layed Out_4
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 1382
+        width: 288
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7318e3869714f700800000000000000
+      internalID: 573108987808453503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ADOM-OGA-UI-Layed Out_5
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 1425
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb8f6b7a68c139c70800000000000000
+      internalID: 8976549846944512190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ADOM-OGA-UI-Layed Out_6
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 1439
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f49f4e5c6a491120800000000000000
+      internalID: 2385019306968585464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ADOM-OGA-UI-Layed Out_7
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 1409
+        width: 578
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55c7ca7e929da77d0800000000000000
+      internalID: -2919782634392617899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ADOM-OGA-UI-Layed Out_8
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 1381
+        width: 9
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eba3fc44bc1cc8eb0800000000000000
+      internalID: -4716181630986798402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ADOM-OGA-UI-Layed Out_9
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 1358
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c783f26980f7f5f0800000000000000
+      internalID: -722844742308362300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ADOM-OGA-UI-Layed Out_10
+      rect:
+        serializedVersion: 2
+        x: 1361
+        y: 1330
+        width: 57
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 912f3731d03999be0800000000000000
+      internalID: -1469982118989532647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ADOM-OGA-UI-Layed Out_11
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1251
+        width: 67
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51fc8fa652ff1d580800000000000000
+      internalID: -8803975260359045355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ADOM-OGA-UI-Layed Out_12
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 1251
+        width: 578
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e765fbad31fd0870800000000000000
+      internalID: 8650835706428876771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ADOM-OGA-UI-Layed Out_13
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 1249
+        width: 67
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca2a1a1ccce499390800000000000000
+      internalID: -7811125437368524116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ADOM-OGA-UI-Layed Out_14
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 1238
+        width: 103
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 308bfd841eb0818c0800000000000000
+      internalID: -4028456804464740349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ADOM-OGA-UI-Layed Out_15
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 1333
+        width: 329
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b3e04c319412b950800000000000000
+      internalID: 6463251029243782068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ADOM-OGA-UI-Layed Out_16
+      rect:
+        serializedVersion: 2
+        x: 1254
+        y: 1327
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aab691a6e10d0ac0800000000000000
+      internalID: -3887448813285754204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ADOM-OGA-UI-Layed Out_17
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 1272
+        width: 327
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8aa3e5ce07b719e0800000000000000
+      internalID: -1650649464330540404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ADOM-OGA-UI-Layed Out_18
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1038
+        width: 852
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d4c04a2486b79e20800000000000000
+      internalID: 3357352725988820177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ADOM-OGA-UI-Layed Out_19
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 1206
+        width: 327
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fa3792b406e8e900800000000000000
+      internalID: 714073448788736760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ADOM-OGA-UI-Layed Out_20
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1190
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 996833238b784f070800000000000000
+      internalID: 8139279651751298713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ADOM-OGA-UI-Layed Out_21
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 1189
+        width: 5
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 863b227e06bb41f00800000000000000
+      internalID: 1086699434972197736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ADOM-OGA-UI-Layed Out_22
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1133
+        width: 5
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb08d25ff4fdb35b0800000000000000
+      internalID: -5387466994709856068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ADOM-OGA-UI-Layed Out_23
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 1132
+        width: 5
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dc2f886e6a191a80800000000000000
+      internalID: -8495730160554791727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ADOM-OGA-UI-Layed Out_24
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 1146
+        width: 531
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67d5089a60a8bf050800000000000000
+      internalID: 5835409503406808438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ADOM-OGA-UI-Layed Out_25
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 1086
+        width: 327
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8258a73c06a3ce280800000000000000
+      internalID: -9012764567004347096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ADOM-OGA-UI-Layed Out_26
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 516
+        width: 826
+        height: 519
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a18c2fc7b82d723b0800000000000000
+      internalID: -5537225720290162662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ADOM-OGA-UI-Layed Out_27
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 508
+        width: 822
+        height: 517
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73b786ef2da89c3a0800000000000000
+      internalID: -6644627136392430793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ADOM-OGA-UI-Layed Out_28
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 1026
+        width: 7
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1e01725d69ee2f30800000000000000
+      internalID: 4552832929061998106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ADOM-OGA-UI-Layed Out_29
+      rect:
+        serializedVersion: 2
+        x: 1737
+        y: 1022
+        width: 7
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09464aa4eafb89ca0800000000000000
+      internalID: -6009842947428424560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ADOM-OGA-UI-Layed Out_30
+      rect:
+        serializedVersion: 2
+        x: 1721
+        y: 508
+        width: 25
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a656404e68cbcad00800000000000000
+      internalID: 985369706024428906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

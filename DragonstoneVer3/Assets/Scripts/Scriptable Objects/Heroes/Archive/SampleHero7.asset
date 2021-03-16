@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9006dad03c143c748a19ee3cd216764f, type: 3}
+  m_Name: SampleHero7
+  m_EditorClassIdentifier: 
+  hero:
+    name: Hero 3
+    heroImage: {fileID: 21300000, guid: 916306e7b0603fe46b76eab1e1fbc846, type: 3}
+    description: Sample Hero 3
+    heroLevel: 1
+    rarity: 0
+    faction: 0
+    creatureType: 0
+    health: 125
+    attack: 30
+    chance: 100
+    speed: 280
+    armor: 4
+    taunt: 0
+  skill:
+  - skillAsset: {fileID: 11400000, guid: f9e2684a5ca1fea4784dd09a13011a79, type: 2}
+    cooldown: 5
+  - skillAsset: {fileID: 11400000, guid: c4c7fd2e508ff8245abb41dce651e5d3, type: 2}
+    cooldown: 4
+  - skillAsset: {fileID: 11400000, guid: a3fccf1b135c54b4d8a04ede13ec08d4, type: 2}
+    cooldown: 0
+  - skillAsset: {fileID: 11400000, guid: ee600e60f9d47f5448c7c21b835f2df5, type: 2}
+    cooldown: 4

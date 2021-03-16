@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9006dad03c143c748a19ee3cd216764f, type: 3}
+  m_Name: Verdehille
+  m_EditorClassIdentifier: 
+  hero:
+    name: Verdehille
+    heroImage: {fileID: 21300000, guid: 18eca20d29ce31d42b167d20dde4a6d9, type: 3}
+    description: Vampire
+    heroLevel: 0
+    rarity: 3
+    faction: 0
+    creatureType: 0
+    health: 99
+    attack: 8
+    chance: 50
+    speed: 200
+    armor: 0
+    taunt: 0
+  skill:
+  - skillAsset: {fileID: 11400000, guid: e5908457fc3104d4f9be2d9e3016c176, type: 2}
+    cooldown: 0
+  - skillAsset: {fileID: 11400000, guid: ceea4e8d2dc0755419d61525baf3073f, type: 2}
+    cooldown: 2
+  - skillAsset: {fileID: 11400000, guid: b9720d48461745443b2c07209d8dfdc6, type: 2}
+    cooldown: 3
+  - skillAsset: {fileID: 11400000, guid: a06a1f563c8ab0f4f87b46fd8cd3e333, type: 2}
+    cooldown: 0

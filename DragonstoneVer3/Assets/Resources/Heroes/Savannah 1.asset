@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9006dad03c143c748a19ee3cd216764f, type: 3}
+  m_Name: Savannah 1
+  m_EditorClassIdentifier: 
+  hero:
+    name: Savannah
+    heroImage: {fileID: 21300000, guid: 0ca71408c48065b4ea9f7965d67170e1, type: 3}
+    description: Beast Rider
+    heroLevel: 0
+    rarity: 3
+    faction: 2
+    creatureType: 0
+    health: 109
+    attack: 8
+    chance: 100
+    speed: 108
+    armor: 0
+    taunt: 0
+  skill:
+  - skillAsset: {fileID: 11400000, guid: e0c4d501beecc164ea19390791693725, type: 2}
+    cooldown: 0
+  - skillAsset: {fileID: 11400000, guid: c4c7fd2e508ff8245abb41dce651e5d3, type: 2}
+    cooldown: 0
+  - skillAsset: {fileID: 11400000, guid: f9e2684a5ca1fea4784dd09a13011a79, type: 2}
+    cooldown: 0
+  - skillAsset: {fileID: 11400000, guid: f9e2684a5ca1fea4784dd09a13011a79, type: 2}
+    cooldown: 0

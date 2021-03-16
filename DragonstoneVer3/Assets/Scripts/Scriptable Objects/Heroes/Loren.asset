@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9006dad03c143c748a19ee3cd216764f, type: 3}
+  m_Name: Loren
+  m_EditorClassIdentifier: 
+  hero:
+    name: Loren
+    heroImage: {fileID: 21300000, guid: 8f65a99c23b49ad47b28e415e196d66b, type: 3}
+    description: Cowgirl
+    heroLevel: 0
+    rarity: 3
+    faction: 3
+    creatureType: 1
+    health: 92
+    attack: 7
+    chance: 75
+    speed: 102
+    armor: 0
+    taunt: 0
+  skill:
+  - skillAsset: {fileID: 11400000, guid: f91e44cefdf17f646a5ebb8685d54e68, type: 2}
+    cooldown: 0
+  - skillAsset: {fileID: 11400000, guid: 77d5410a7a3930d4d9181501b8cec15d, type: 2}
+    cooldown: 3
+  - skillAsset: {fileID: 11400000, guid: a19ef748a11dfce41ae8ada5f13eb4f5, type: 2}
+    cooldown: 4
+  - skillAsset: {fileID: 11400000, guid: 6f32b46d2282325439ff1c50820e511e, type: 2}
+    cooldown: 0

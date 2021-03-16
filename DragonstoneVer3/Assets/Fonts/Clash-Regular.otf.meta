@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 75b0f7419cb37a443a686d60d69d789f
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Clash
+  fontNames:
+  - Clash
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 545b716cfe022b540888d4fa07ab476d, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

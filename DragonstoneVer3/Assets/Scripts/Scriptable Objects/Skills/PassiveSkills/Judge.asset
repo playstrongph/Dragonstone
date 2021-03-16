@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31048f7182bf7cd49a681a3823462454, type: 3}
+  m_Name: Judge
+  m_EditorClassIdentifier: 
+  skillBasicInfo:
+    skillName: Judge
+    scriptName: Judge
+    description: Whenever an enemy deals CRITICAL STRIKE, chance to deal your attack
+      damage to it then gain 10 armor and 10% energy.
+    thumbnail: {fileID: 21300000, guid: 38933e28d5742c248b5c7e1d3c1a0e25, type: 3}
+    skillCooldown: 0
+    skillType: 1
+    skillTarget: 4
+    dragType: 3

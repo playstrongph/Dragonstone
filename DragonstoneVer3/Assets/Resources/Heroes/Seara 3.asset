@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9006dad03c143c748a19ee3cd216764f, type: 3}
+  m_Name: Seara 3
+  m_EditorClassIdentifier: 
+  hero:
+    name: Seara
+    heroImage: {fileID: 1194986505922998523, guid: 9715cfde07960b94fa0cbc72f6f3f700,
+      type: 3}
+    description: Oracle
+    heroLevel: 0
+    rarity: 3
+    faction: 2
+    creatureType: 0
+    health: 108
+    attack: 8
+    chance: 100
+    speed: 100
+    armor: 0
+    taunt: 0
+  skill:
+  - skillAsset: {fileID: 11400000, guid: 41b2f90929ae9ab4caf16040f5f6687a, type: 2}
+    cooldown: 0
+  - skillAsset: {fileID: 11400000, guid: a22dc187e9f129346bbf62f75299b26a, type: 2}
+    cooldown: 0
+  - skillAsset: {fileID: 11400000, guid: 5175330d03fc91342b6ea013c73b8015, type: 2}
+    cooldown: 0
+  - skillAsset: {fileID: 11400000, guid: 15701028ff7df774283b6b561f5b202d, type: 2}
+    cooldown: 0

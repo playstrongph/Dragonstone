@@ -3,7 +3,9 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - LOW_PLAYER
+  - TOP_PLAYER
   layers:
   - Default
   - TransparentFX
@@ -40,4 +42,13 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Cards
+    uniqueID: 380045609
+    locked: 0
+  - name: UI
+    uniqueID: 1268756963
+    locked: 0
+  - name: Above Everything
+    uniqueID: 3628641915
     locked: 0
